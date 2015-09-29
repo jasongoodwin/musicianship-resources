@@ -29,3 +29,12 @@ Do re mi fa sol la ti do
 ## Major scale construction
 Whole and half steps define the construction of a scale.
 w w h w w w h
+
+## Homework - Major second and major third intervals - play and sing around the keyboard.
+
+## Tonal Center - key that the song is in
+
+# Week2 
+
+Perfect 4th - here comes the bride
+Perfect 5th - All dressed in white. Or star wars!
